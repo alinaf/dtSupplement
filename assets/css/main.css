@@ -2,8 +2,8 @@
 @import url("https://fonts.googleapis.com/css?family=Crimson+Text:600i");
 @import url('https://fonts.googleapis.com/css?family=Old+Standard+TT:400i');
 @import url("http://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,800,800italic");
-@import url('https://fonts.googleapis.com/css?family=Playfair+Display:400i,700i');
-@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display:400,700');
+@import url('https://fonts.googleapis.com/css?family=Roboto:300');
 
 /* Color Scheme 
 
@@ -3573,6 +3573,18 @@ ul {
 }
 
 /* Header */
+	#banner {
+		text-align: center;
+	}
+
+	#banner h2 {
+		margin: 0;
+	}
+
+	#banner p {
+		margin: 0;
+		margin-bottom: 20px;
+	}
 
 	#header {
 		-moz-transition: background-color 0.2s ease;
@@ -4371,7 +4383,7 @@ outline: none;
 
 	#footer {
 		padding: 6em 0 4em 0 ;
-		background-color: #13161A;
+		background-color: black;
 		text-align: center;
 	}
 
