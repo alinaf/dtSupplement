@@ -2440,6 +2440,17 @@ Charcoal: #373737;
 
 			}
 
+/* More stories */
+
+ul {
+	list-style-type: none;
+}
+
+.more li{
+	display: inline;
+}
+
+
 /* Spotlight */
 
 	.spotlight {
