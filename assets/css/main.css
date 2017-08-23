@@ -2450,6 +2450,17 @@ ul {
 	display: inline;
 }
 
+/*#three div {
+	border: 3px solid pink;
+
+}*/
+
+ #three hr {
+    padding: 0px;
+    margin-top: 0px; 
+    border-color: rgba(255, 255, 255, 0.125);
+  }
+
 
 /* Spotlight */
 
@@ -3854,7 +3865,7 @@ outline: none;
 	}
 
 	body.is-loading #banner:after {
-		opacity: 1;
+		opacity: 1;y
 	}
 
 /* Gallery */
