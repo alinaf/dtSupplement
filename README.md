@@ -3,4 +3,9 @@ Special website for the Daily Trojan's Orientation Issue
 
 // TO DO:
 
-Organization!!# dtSupplement
+CREDIT
+BLURB
+HEADLINES
+DECKS
+LINKS
+PHOTOS
