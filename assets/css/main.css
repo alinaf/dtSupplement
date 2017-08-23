@@ -3601,6 +3601,11 @@ ul {
 		z-index: 10000;
 	}
 
+	#header h9 {
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+
 		#header h1 {
 			-moz-transition: opacity 0.2s ease;
 			-webkit-transition: opacity 0.2s ease;
